@@ -1007,5 +1007,5 @@ export const LEVELS: Level[] = [
     {id: 997, pattern: [53, 59, 61, 67, 71], answer: 73, logic: "Prime numbers", difficulty: "Expert", hint: "These numbers are only divisible by 1 and themselves."},
     {id: 998, pattern: [10, 100, 14, 96, 18], answer: 92, logic: "Interleaved: +4 and -4", difficulty: "Expert", hint: "There might be two different sequences mixed together."},
     {id: 999, pattern: [19, 24, 30, 37], answer: 45, logic: "Increasing gap by 1", difficulty: "Expert", hint: "Try looking at the relationship between consecutive numbers."},
-    {id: 1000, pattern: [3, 13, 37, 81, 153], answer: 257, logic: "Sum of first n Primes + n^3 (The Final Boss Challenge)", difficulty: "Expert", hint: "It's a combination of a cumulative prime sum and a cubic sequence. Truly the toughest challenge!"},
+    {id: 1000, pattern: [2, 11, 29, 65], answer: 137, logic: "2x + 7", difficulty: "Expert", hint: "Try looking at the relationship between consecutive numbers."},
 ];
